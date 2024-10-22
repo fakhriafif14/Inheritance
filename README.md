@@ -8,3 +8,7 @@ Superclass ```Pegawai```: Kelas ini berisi atribut``` nama``` dan ```gajiPokok``
 **Subclass** ```Programmer```: Sama seperti ```Manager```, kelas ini mewarisi ```Pegawai```, dengan tambahan atribut ```bonus```. Setter dan getter disediakan untuk bonus, dan method ```cetakInfo()``` di-override untuk menampilkan informasi bonus.
 
 Kelas **Main**: Kelas ini digunakan untuk menguji implementasi dengan membuat objek ```Manager``` dan ```Programmer```, lalu mencetak informasi masing-masing dengan memanggil method ```cetakInfo()```.
+## <b> Berikut adalah implementasi Java code  </b>
+![mmk](inheritance.png)
+## <b>Hasil outputnya </b>
+![mmk](ss.png)
